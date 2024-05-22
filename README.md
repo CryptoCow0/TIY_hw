@@ -1,1 +1,1 @@
-Input problems for Kattis
+Input problems for textbook
